@@ -14,8 +14,7 @@ This Data Analysis aims on making a parallel betwen how much property in goods a
 ## Results
 Starting with two graphs on witch we can see the number of elected by property from ten thousand (10^4) to one hundred million (10^8)
 
-<img src="/assets/images/png/electeds.png>
-<img src="/assets/images/png/non-electeds.png">
+<img src="/images/electeds.png" width=45% height=45%> <img src="/images/non-electeds.png" width=45% height=45%> 
 
 ## Data Source
 ### Tribunal Superior Eleitoral (TSE)
