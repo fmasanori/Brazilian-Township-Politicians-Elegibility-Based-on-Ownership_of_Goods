@@ -12,7 +12,11 @@ This Data Analysis aims on making a parallel betwen how much property in goods a
    - Alternate elects will not be counted
    
 ## Results
-   
+Starting with two graphs on witch we can see the number of elected by property from ten thousand (10^4) to one hundred million (10^8)
+
+<img src="/assets/images/png/'Candidates elected and their property in goods.png'">
+<img src="/assets/images/png/'Candidates NON elected and their property in goods.png'">
+
 ## Data Source
 ### Tribunal Superior Eleitoral (TSE)
 https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1 
