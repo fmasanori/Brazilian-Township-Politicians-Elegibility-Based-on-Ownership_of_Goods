@@ -1,4 +1,4 @@
-# Brazilian Township Politicians Elegibility Based on Ownership of Goods (lattest election)
+# Brazilian Township Politicians Elegibility Based on Ownership of Goods (2020 election)
 Data Analysis using Python
 ## Goal
 This Data Analysis aims on making a parallel betwen how much property in goods a candidate has declared and it's elegibility
