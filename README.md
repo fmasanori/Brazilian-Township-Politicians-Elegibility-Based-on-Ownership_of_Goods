@@ -17,8 +17,6 @@ https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
 
 ## Results
 
-## Data Source
-
 ## References
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf </br>
 https://github.com/fcostafelipe/Raspagem-de-dados-Ensino-Superior-2012-a-2018
