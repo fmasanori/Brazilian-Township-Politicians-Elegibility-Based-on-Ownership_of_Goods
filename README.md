@@ -12,14 +12,14 @@ This Data Analysis aims on making a parallel betwen how much property in goods a
 ## Data Source
 ### Tribunal Superior Eleitoral (TSE)
 https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1 
-#### Candidatos (formato ZIP)
-bem_candidato_2020_BA.csv </br>
-bem_candidato_2020_GO.csv </br>
-bem_candidato_2020_SP.csv </br>
-#### Bens de candidatos (formato ZIP)
-consulta_cand_2020_BA.csv </br>
-consulta_cand_2020_GO.csv </br>
-consulta_cand_2020_SP.csv </br>
+   - Candidatos (formato ZIP)
+      - bem_candidato_2020_BA.csv
+      - bem_candidato_2020_GO.csv
+      - bem_candidato_2020_SP.csv
+   - Bens de candidatos (formato ZIP)
+      - consulta_cand_2020_BA.csv
+      - consulta_cand_2020_GO.csv
+      - consulta_cand_2020_SP.csv
 
 ## Results
 
