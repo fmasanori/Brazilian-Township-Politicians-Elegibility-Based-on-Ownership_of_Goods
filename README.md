@@ -1,5 +1,6 @@
 # Brazilian Township Politicians Elegibility Based on Ownership of Goods (2020)
 Data Analysis using Python
+
 ## Goal
 Rumors of vote buying in some regions of Brazil are fairly common among brazilians </br>
 Brazilian's candidates to councilor and mayoral from three different states in three different regions of Brazil with diverse cultures where analysed.
@@ -41,3 +42,5 @@ https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
 ## References
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf </br>
 https://github.com/fcostafelipe/Raspagem-de-dados-Ensino-Superior-2012-a-2018
+
+#### by João Pedro Santos Pereira 
