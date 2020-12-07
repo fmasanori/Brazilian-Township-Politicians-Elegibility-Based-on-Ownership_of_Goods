@@ -10,10 +10,16 @@ This Data Analysis aims on making a parallel betwen how much property in goods a
    - Alternate elects will not be counted
    
 ## Data Source
-#### Tribunal Superior Eleitoral (TSE)
+### Tribunal Superior Eleitoral (TSE)
 https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1 
-  - Candidatos (formato ZIP)
-  - Bens de candidatos (formato ZIP)
+#### Candidatos (formato ZIP)
+bem_candidato_2020_BA.csv </br>
+bem_candidato_2020_GO.csv </br>
+bem_candidato_2020_SP.csv </br>
+#### Bens de candidatos (formato ZIP)
+consulta_cand_2020_BA.csv </br>
+consulta_cand_2020_GO.csv </br>
+consulta_cand_2020_SP.csv </br>
 
 ## Results
 
