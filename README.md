@@ -1,8 +1,8 @@
 # Brazilian Township Politicians Elegibility Based on Ownership of Goods (2020)
 Data Analysis using Python
 ## Goal
+Rumors of vote buying in some regions of Brazil are fairly common among brazilians
 This Data Analysis aims on making a parallel betwen how much property in goods a candidate has declared and it's elegibility
-
 
 ## Parameters
    - Only using candidates that declare their goods
@@ -14,6 +14,10 @@ This Data Analysis aims on making a parallel betwen how much property in goods a
 https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1 
   - Candidatos (formato ZIP)
   - Bens de candidatos (formato ZIP)
+
+## Results
+
+## Data Source
 
 ## References
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf </br>
